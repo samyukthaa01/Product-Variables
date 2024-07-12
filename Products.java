@@ -18,7 +18,6 @@ public class Products {
 
     //below are the instance variables
     private String productId;
-
     private String productName;
     private double price;
 
@@ -35,7 +34,7 @@ public class Products {
 
     // Method to display product details
     public void showProductDetails() {
-        // Local variable called Details
+        // Local variable called details
         String details =
                 "Product ID: " + productId + "\n" +
                         "Product Name: " + productName + "\n" +
@@ -67,7 +66,7 @@ public class Products {
         // Showing the product details
         product1.showProductDetails();
 
-
+        //Displaying the total products added.
         System.out.println("Total Products: " + productCount);
     }
 
