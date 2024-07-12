@@ -3,7 +3,7 @@
  * 5. The data types of variables include int, String, char, boolean, float,
  * double, long, byte, short.
  * 6. Primitive data types include all the data types defined in Java
- * Non-primitive include Strings, arrays, and classes defined by ourselves.
+ * Non-primitive include Strings, arrays, and classes defined by programmers.
  * */
 
 
